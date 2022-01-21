@@ -1,0 +1,15 @@
+body{text-align : center;
+background-image : url('https://www.richelieu.com/documents/docsGr/101/451/0/1014510/1288845_700.jpg') 
+}
+
+li{color : purple;
+font-size : 30px ;
+background : pink;
+text-align : center
+}
+
+em{color : blue;
+font-size : 30px ;
+text-align : center
+}
+
